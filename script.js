@@ -1,0 +1,1 @@
+console.log("Welcome to Sushant Raghunath Patil’s personal website!");
